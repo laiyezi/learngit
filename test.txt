@@ -19,4 +19,5 @@ git branch 查看当前分支
 git merge <name>合并某分支到当前分支
 git branch -d <name> 删除分支
 分支，合并冲突 1 and 2
+add merge,合并merge--no--ff
 
