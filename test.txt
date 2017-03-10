@@ -19,7 +19,6 @@ git branch 查看当前分支
 git merge <name>合并某分支到当前分支
 git branch -d <name> 删除分支
 分支，合并冲突 1 and 2
-<<<<<<< HEAD
 add merge,合并merge --no-ff
 git stash 工作现场暂存，修复bug,
 git stash pop 回到工作现场
