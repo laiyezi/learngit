@@ -4,3 +4,5 @@ git is a distributed version control system.
 git is free software distributed under the GPL.
 git has a mutable index called stage.
 first change.
+后悔药之未add,git checkout -- test.txt.
+后悔药之错了一步还有救，git reset HEAD test.txt,git checkout -- test.txt.
