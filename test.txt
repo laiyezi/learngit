@@ -4,5 +4,11 @@ git is a distributed version control system.
 git is free software distributed under the GPL.
 git has a mutable index called stage.
 first change.
+git reset --hard commit__id. HEAD指向当前版本，HEAD^上个版本。
+git log查看提交历史。
+git reflog查看命令历史。
 后悔药之未add,git checkout -- test.txt.
 后悔药之错了一步还有救，git reset HEAD test.txt,git checkout -- test.txt.
+git remote add origin git@github.com:name/repo-name.git.关联远程仓库。
+git push -u origin master第一次推送master分支的所有内容。
+git push origin master推送最新修改。
